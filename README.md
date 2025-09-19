@@ -4,5 +4,5 @@
 </div>
 <div>
   Have a glance at this 
-  <a href='www.github.com/Sabarish-developer' target='_blank'>account </a>
+  <a href='https://www.github.com/Sabarish-developer' target='_blank'>account </a>
 </div>
